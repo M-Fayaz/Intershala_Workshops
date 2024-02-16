@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+
+    <color name="tblack">#1C1C1C</color>
+    <color name="tansparentblack">#323232</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+
+    <color name="primary">#0DE1CD</color>
+
+
+    <color name="whitebackground">#FAFAFA</color>
+    <color name="whitetransparent">#FFFFFF</color>
+
+
+
+
+
+
+    <color name="transparentblue">#70F1E5</color>
+    <color name="green">#04A106</color>
+
+</resources>
